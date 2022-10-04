@@ -7,7 +7,7 @@ public class HelloWorld {
 		
 		//Afficher le message en clair
 		/**
-		 * main
+		 * main in comment
 		 */
 		String message="Hello Maven World";
 		Afficher A = new Afficher();
