@@ -6,6 +6,9 @@ public class HelloWorld {
 		// TODO Auto-generated method stub
 		
 		//Afficher le message en clair
+		/**
+		 * main
+		 */
 		String message="Hello Maven World";
 		Afficher A = new Afficher();
 		A.display(message);
